@@ -71,7 +71,7 @@ Azure Boards:
 https://dev.azure.com/OrgCoreMonitor/CoreMonitor
 
 Vídeo demonstrativo:  
-INSERIR LINK DO YOUTUBE
+👉 https://youtu.be/1ACTHuEmaGg
 
 ---
 
