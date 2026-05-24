@@ -72,6 +72,7 @@ https://dev.azure.com/OrgCoreMonitor/CoreMonitor
 
 Vídeo demonstrativo:  
 👉 https://youtu.be/1ACTHuEmaGg
+
 ---
 
 ## 👥 Integrantes
