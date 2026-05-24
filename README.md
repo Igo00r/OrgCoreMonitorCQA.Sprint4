@@ -26,7 +26,7 @@ A entrega contempla:
 
 O plano de testes manuais está disponível em:
 
-`/docs/Plano_Testes_CoreMonitor_CQA_Sprint4.pdf`
+`Plano_Testes_CoreMonitor_CQA_Sprint4.pdf`
 
 O documento contempla:
 
